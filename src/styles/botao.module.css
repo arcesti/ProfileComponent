@@ -1,0 +1,13 @@
+.botao {
+    background: linear-gradient(70deg,#1e90ff 10%, #84c1ff 60%);
+    border: 0;
+    height: 6.5vh;
+    width: 13vw;
+    max-width: 35rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    font-size: 2em;
+    font-weight: 700;
+    color: #fff;
+    box-shadow: .1px 0 .3rem #2e2e2d;
+}
