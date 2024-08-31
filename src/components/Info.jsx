@@ -1,4 +1,4 @@
-import style from './styles/profile.module.css'
+import style from '../styles/profile.module.css'
 
 export default function Info(props) {
     return (

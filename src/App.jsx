@@ -1,4 +1,4 @@
-import Profile from './Profile'
+import Profile from './components/Profile'
 import foto from './assets/fotoMinha.jpeg';
 
 function App() {

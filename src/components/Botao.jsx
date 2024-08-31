@@ -1,4 +1,4 @@
-import style from './styles/botao.module.css'
+import style from '../styles/botao.module.css'
 
 export default function Botao(props) {
     return (
