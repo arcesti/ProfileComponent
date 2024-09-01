@@ -3,6 +3,11 @@ import Info from './Info'
 import Botao from './Botao'
 
 export default function Profile(props) {
+    function onclick() {
+        fetch('https://github.com/arcesti');
+    }
+
+
     return (
         <div className={style.container}>
             <section className={style.perfil}>
